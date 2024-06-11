@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "535534964860",
+    "firebase_url": "https://finedustlab-default-rtdb.firebaseio.com",
+    "project_id": "finedustlab",
+    "storage_bucket": "finedustlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535534964860:android:1e5bf60e49106f56faf9f9",
+        "android_client_info": {
+          "package_name": "com.schoolkeepa.dust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8bEkAb2zrYDTVMeq5H-oTftb3A_iJbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
